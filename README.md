@@ -34,3 +34,14 @@
 </a>
 
 ___
+
+<!--
+statistics    
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
+
+emodzi    
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+about README.md    
+https://github.com/matiassingers/awesome-readme
+-->
