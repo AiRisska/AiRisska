@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Irina.
+- I'm QA: manual and automatization.
+- I'm also admin Jira
+- 
+
+
+
 <!--
 **AiRisska/AiRisska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Статистика AiRisska на GitHub](https://github-readme-stats.vercel.app/api?username=AiRisska)
