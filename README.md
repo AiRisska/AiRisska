@@ -39,7 +39,7 @@ ___
 statistics    
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 
-emodzi    
+emodji    
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 about README.md    
